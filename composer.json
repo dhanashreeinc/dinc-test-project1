@@ -1,6 +1,7 @@
 {
     "name": "dhanashreeinc/dinc-test-project1",
     "description": "This is testing project",
+    "license":"OSL-3.0",
     "type": "magento-module",
     "homepage": "https://github.com/dhanashreeinc/dinc-test-project1",
     "authors": [
@@ -8,5 +9,6 @@
             "name": "Bhargav",
             "email": "bhargav@dhanashree.com"
         }
-    ]
+    ],
+    "minimum-stability": "stable",
 }
