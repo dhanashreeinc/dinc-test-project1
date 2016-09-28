@@ -10,6 +10,7 @@
             "email": "bhargav@dhanashree.com"
         }
     ],
-    "minimum-stability": "stable",
-    "prefer-stable": true
+    "config": {
+	"preferred-install": "dist"
+}
 }
