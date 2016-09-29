@@ -3,15 +3,11 @@
     "description": "This is testing project",
     "license":"OSL-3.0",
     "type": "magento-module",
-    "homepage": "https://github.com/dhanashreeinc/dinc-test-project1",
+    "homepage": "https://github.com/dhanashreeinc/dinc-test-project1.git",
     "authors": [
         {
             "name": "Bhargav",
             "email": "bhargav@dhanashree.com"
         }
-    ],
-    "minimum-stability": "dev",
-    "require": {
-        "dhanashreeinc/dinc-test-project1": "dev-master"
-    }
+    ]
 }
