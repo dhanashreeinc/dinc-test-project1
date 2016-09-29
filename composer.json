@@ -10,6 +10,8 @@
             "email": "bhargav@dhanashree.com"
         }
     ],
-    "minimum-stability" : "dev",
-    "prefer-stable" : true
+    "minimum-stability": "dev",
+    "require": {
+        "dhanashreeinc/dinc-test-project1": "dev-master"
+    }
 }
