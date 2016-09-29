@@ -10,5 +10,5 @@
             "email": "bhargav@dhanashree.com"
         }
     ],
-    "minimum-stability": "dev"
+    "minimum-stability": "stable"
 }
